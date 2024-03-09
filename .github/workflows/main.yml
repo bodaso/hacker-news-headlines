@@ -1,0 +1,63 @@
+name: main
+
+on:
+  # run this workflow manually from the Actions tab
+  workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    # for gcp and git-auto-commit-action
+    permissions:
+      contents: write
+      id-token: write
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Setup GCP
+        id: auth
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: "${{ secrets.GCP_CREDENTIALS }}"
+
+      - name: Set up Cloud SDK
+        uses: google-github-actions/setup-gcloud@v2
+
+      # - name: Use gcloud CLI
+      #   run: gcloud info
+
+      - name: Download sqlite
+        run: gsutil cp gs://hnhd/hackernews.sqlite ./data
+
+      - name: Install dependencies
+        run: |
+          pip install beautifulsoup4
+          pip install sqlalchemy
+
+      - name: Run scripts
+        run: |
+          python code/crawler.py
+          python code/crawler.py -o
+          python code/markdown.py
+
+      - name: Upload sqlite
+        run: gsutil cp ./data/hackernews.sqlite gs://hnhd/hackernews.sqlite
+
+      - name: Remove sqlite
+        run: rm ./data/hackernews.sqlite
+
+      - name: Commit if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: updated with the latest headlines

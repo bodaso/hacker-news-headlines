@@ -1,0 +1,9 @@
+*.tsbuildinfo
+.DS_Store
+.env
+.next/
+__pycache__/
+build/
+dist/
+node_modules/
+gha-creds-*.json

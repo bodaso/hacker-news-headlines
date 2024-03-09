@@ -1,0 +1,32 @@
+{
+  "name": "hnhd.io",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "@vercel/analytics": "1.2.0",
+    "debounce": "2.0.0",
+    "million": "3.0.3",
+    "next": "14.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "5.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.19",
+    "@types/react": "18.2.56",
+    "@types/react-dom": "18.2.19",
+    "autoprefixer": "10.4.17",
+    "postcss": "8.4.35",
+    "prettier": "3.2.5",
+    "tailwindcss": "3.4.1",
+    "typescript": "5.3.3"
+  }
+}
