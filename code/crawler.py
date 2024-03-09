@@ -15,6 +15,8 @@ HN_BASE_URL = "https://news.ycombinator.com"
 # LAST_TXT_PATH = "data/last.txt"
 BEST_CSV_PATH = "data/best.csv"
 BEST_JSON_PATH = "data/best.json"
+YT_CSV_PATH = "data/yt.csv"
+YT_JSON_PATH = "data/yt.json"
 DATE_FORMAT = "%Y-%m-%d"
 END_DATE_FIXED = datetime.strptime("2006-10-09", DATE_FORMAT)
 
@@ -116,7 +118,7 @@ def csv_to_json(csv_path, json_path):
 
 def output_best() -> None:
     try:
-        with Session() as session, open("data/best.csv", "w", newline="") as csvfile:
+        with Session() as session, open(BEST_CSV_PATH, "w", newline="") as csvfile:
             # NOTE: the query will output multiple rows for the same date if there are posts with the same max score...
             query = text(
                 """
@@ -141,12 +143,37 @@ def output_best() -> None:
         print(f"An error occurred at the output: {e}")
 
 
+# output all youtube links
+def output_yt() -> None:
+    try:
+        with Session() as session, open(YT_CSV_PATH, "w", newline="") as csvfile:
+            query = text(
+                """
+                SELECT p.*
+                FROM posts p
+                WHERE p.link LIKE '%youtube.com%'
+                ORDER BY p.date DESC
+                """
+            )
+            result = session.execute(query)
+            column_names = result.keys()
+            writer = csv.writer(csvfile)
+            writer.writerow(column_names)  # Write the header row
+            for row in result:
+                writer.writerow(row)
+        print("Saved youtube posts to csv file!")
+    except Exception as e:
+        print(f"An error occurred at the output: {e}")
+
+
 def main(output: bool) -> None:
     start_date = datetime.now() - timedelta(days=1)  # start from yesterday
 
     if output:
         output_best()
         csv_to_json(BEST_CSV_PATH, BEST_JSON_PATH)
+        output_yt()
+        csv_to_json(YT_CSV_PATH, YT_JSON_PATH)
         sys.exit(0)
     else:
         days_back = 14

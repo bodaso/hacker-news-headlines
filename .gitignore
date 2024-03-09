@@ -7,3 +7,5 @@ build/
 dist/
 node_modules/
 gha-creds-*.json
+# ignore db in local git
+hackernews.sqlite
