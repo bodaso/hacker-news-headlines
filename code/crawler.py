@@ -176,7 +176,8 @@ def main(output: bool) -> None:
         csv_to_json(YT_CSV_PATH, YT_JSON_PATH)
         sys.exit(0)
     else:
-        days_back = 14
+        # HN thread freezes after 2 weeks + 1 day
+        days_back = 15
         for _ in range(days_back):
             current_date_str = start_date.strftime(DATE_FORMAT)
             print(f"Date: {current_date_str}")
