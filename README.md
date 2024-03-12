@@ -19,16 +19,17 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 525 | [U.S. is said to open criminal inquiry into Boeing](https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html) | [10-03-2024](https://news.ycombinator.com/item?id=39656455) |
-| 1299 | [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/) | [09-03-2024](https://news.ycombinator.com/item?id=39653718) |
-| 1050 | [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/) | [08-03-2024](https://news.ycombinator.com/item?id=39637471) |
-| 1245 | [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/) | [07-03-2024](https://news.ycombinator.com/item?id=39629044) |
+| 671 | [JSON Canvas – An open file format for infinite canvas data](https://jsoncanvas.org/) | [11-03-2024](https://news.ycombinator.com/item?id=39670922) |
+| 611 | [U.S. is said to open criminal inquiry into Boeing](https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html) | [10-03-2024](https://news.ycombinator.com/item?id=39656455) |
+| 1479 | [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/) | [09-03-2024](https://news.ycombinator.com/item?id=39653718) |
+| 1058 | [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/) | [08-03-2024](https://news.ycombinator.com/item?id=39637471) |
+| 1266 | [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/) | [07-03-2024](https://news.ycombinator.com/item?id=39629044) |
 | 1036 | [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk) | [06-03-2024](https://news.ycombinator.com/item?id=39611484) |
-| 1023 | [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/) | [05-03-2024](https://news.ycombinator.com/item?id=39598189) |
-| 1265 | [Show HN: 3 years and 1M users later, I just open-sourced my "Internet OS"](https://github.com/HeyPuter/puter) | [04-03-2024](https://news.ycombinator.com/item?id=39597030) |
-| 613 | [CSS for printing to paper](https://voussoir.net/writing/css_for_printing) | [03-03-2024](https://news.ycombinator.com/item?id=39584654) |
+| 1025 | [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/) | [05-03-2024](https://news.ycombinator.com/item?id=39598189) |
+| 1267 | [Show HN: 3 years and 1M users later, I just open-sourced my "Internet OS"](https://github.com/HeyPuter/puter) | [04-03-2024](https://news.ycombinator.com/item?id=39597030) |
+| 614 | [CSS for printing to paper](https://voussoir.net/writing/css_for_printing) | [03-03-2024](https://news.ycombinator.com/item?id=39584654) |
 | 963 | [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/) | [02-03-2024](https://news.ycombinator.com/item?id=39570692) |
-| 1458 | [Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]](https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf) | [01-03-2024](https://news.ycombinator.com/item?id=39559966) |
+| 1459 | [Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]](https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf) | [01-03-2024](https://news.ycombinator.com/item?id=39559966) |
 | 817 | [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/) | [29-02-2024](https://news.ycombinator.com/item?id=39548088) |
 | 1040 | [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764) | [28-02-2024](https://news.ycombinator.com/item?id=39535800) |
 | 2544 | [Airfoil](https://ciechanow.ski/airfoil/) | [27-02-2024](https://news.ycombinator.com/item?id=39526057) |
@@ -383,7 +384,6 @@
 | 722 | [More students are turning away from college and toward apprenticeships](https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d) | [18-03-2023](https://news.ycombinator.com/item?id=35210421) |
 | 746 | [Give babies peanut butter to cut peanut allergies, study says](https://www.bbc.com/news/health-64987074) | [17-03-2023](https://news.ycombinator.com/item?id=35197835) |
 | 748 | [Introducing react.dev](https://react.dev/blog/2023/03/16/introducing-react-dev) | [16-03-2023](https://news.ycombinator.com/item?id=35186812) |
-| 1556 | [Docker is deleting Open Source organisations - what you need to know](https://blog.alexellis.io/docker-is-deleting-open-source-images/) | [15-03-2023](https://news.ycombinator.com/item?id=35166317) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**
