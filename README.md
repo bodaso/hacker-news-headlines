@@ -19,20 +19,21 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1220 | [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) | [14-03-2024](https://news.ycombinator.com/item?id=39700256) |
-| 538 | [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) | [13-03-2024](https://news.ycombinator.com/item?id=39692387) |
+| 584 | [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/) | [15-03-2024](https://news.ycombinator.com/item?id=39711725) |
+| 1434 | [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) | [14-03-2024](https://news.ycombinator.com/item?id=39700256) |
+| 552 | [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) | [13-03-2024](https://news.ycombinator.com/item?id=39692387) |
 | 778 | [Apple announces ability to download apps directly from websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/) | [12-03-2024](https://news.ycombinator.com/item?id=39678532) |
-| 1329 | [Boeing whistleblower found dead in US](https://www.bbc.com/news/business-68534703) | [11-03-2024](https://news.ycombinator.com/item?id=39673589) |
+| 1330 | [Boeing whistleblower found dead in US](https://www.bbc.com/news/business-68534703) | [11-03-2024](https://news.ycombinator.com/item?id=39673589) |
 | 638 | [U.S. is said to open criminal inquiry into Boeing](https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html) | [10-03-2024](https://news.ycombinator.com/item?id=39656455) |
 | 1529 | [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/) | [09-03-2024](https://news.ycombinator.com/item?id=39653718) |
-| 1063 | [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/) | [08-03-2024](https://news.ycombinator.com/item?id=39637471) |
-| 1272 | [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/) | [07-03-2024](https://news.ycombinator.com/item?id=39629044) |
+| 1064 | [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/) | [08-03-2024](https://news.ycombinator.com/item?id=39637471) |
+| 1273 | [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/) | [07-03-2024](https://news.ycombinator.com/item?id=39629044) |
 | 1036 | [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk) | [06-03-2024](https://news.ycombinator.com/item?id=39611484) |
 | 1025 | [European crash tester says carmakers must bring back physical controls](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/) | [05-03-2024](https://news.ycombinator.com/item?id=39598189) |
-| 1272 | [Show HN: 3 years and 1M users later, I just open-sourced my "Internet OS"](https://github.com/HeyPuter/puter) | [04-03-2024](https://news.ycombinator.com/item?id=39597030) |
+| 1273 | [Show HN: 3 years and 1M users later, I just open-sourced my "Internet OS"](https://github.com/HeyPuter/puter) | [04-03-2024](https://news.ycombinator.com/item?id=39597030) |
 | 615 | [CSS for printing to paper](https://voussoir.net/writing/css_for_printing) | [03-03-2024](https://news.ycombinator.com/item?id=39584654) |
 | 964 | [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/) | [02-03-2024](https://news.ycombinator.com/item?id=39570692) |
-| 1461 | [Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]](https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf) | [01-03-2024](https://news.ycombinator.com/item?id=39559966) |
+| 1462 | [Elon Musk sues Sam Altman, Greg Brockman, and OpenAI [pdf]](https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf) | [01-03-2024](https://news.ycombinator.com/item?id=39559966) |
 | 817 | [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/) | [29-02-2024](https://news.ycombinator.com/item?id=39548088) |
 | 1040 | [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764) | [28-02-2024](https://news.ycombinator.com/item?id=39535800) |
 | 2544 | [Airfoil](https://ciechanow.ski/airfoil/) | [27-02-2024](https://news.ycombinator.com/item?id=39526057) |
@@ -383,7 +384,6 @@
 | 1096 | [GitHub Copilot X – Sign up for technical preview](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) | [22-03-2023](https://news.ycombinator.com/item?id=35261065) |
 | 1102 | [So you've installed `fzf` – now what?](https://andrew-quinn.me/fzf/) | [21-03-2023](https://news.ycombinator.com/item?id=35248098) |
 | 1018 | [Cyclists now outnumber motorists in City of London](https://www.forbes.com/sites/carltonreid/2023/03/01/cyclists-now-outnumber-motorists-in-city-of-london/) | [20-03-2023](https://news.ycombinator.com/item?id=35231111) |
-| 923 | [Build full “product skills” and you'll probably be fine](https://twitter.com/ID_AA_Carmack/status/1637087219591659520) | [19-03-2023](https://news.ycombinator.com/item?id=35216894) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**
