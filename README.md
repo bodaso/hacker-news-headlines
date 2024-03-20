@@ -19,14 +19,15 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 652 | [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/) | [18-03-2024](https://news.ycombinator.com/item?id=39746468) |
-| 1119 | [Grok](https://github.com/xai-org/grok) | [17-03-2024](https://news.ycombinator.com/item?id=39737281) |
-| 900 | [How web bloat impacts users with slow devices](https://danluu.com/slow-device/) | [16-03-2024](https://news.ycombinator.com/item?id=39729057) |
-| 864 | [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/) | [15-03-2024](https://news.ycombinator.com/item?id=39711725) |
-| 1482 | [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) | [14-03-2024](https://news.ycombinator.com/item?id=39700256) |
+| 595 | [How to Start Google](https://paulgraham.com/google.html) | [19-03-2024](https://news.ycombinator.com/item?id=39756865) |
+| 831 | [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/) | [18-03-2024](https://news.ycombinator.com/item?id=39746468) |
+| 1150 | [Grok](https://github.com/xai-org/grok) | [17-03-2024](https://news.ycombinator.com/item?id=39737281) |
+| 916 | [How web bloat impacts users with slow devices](https://danluu.com/slow-device/) | [16-03-2024](https://news.ycombinator.com/item?id=39729057) |
+| 866 | [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/) | [15-03-2024](https://news.ycombinator.com/item?id=39711725) |
+| 1486 | [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) | [14-03-2024](https://news.ycombinator.com/item?id=39700256) |
 | 559 | [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) | [13-03-2024](https://news.ycombinator.com/item?id=39692387) |
-| 780 | [Apple announces ability to download apps directly from websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/) | [12-03-2024](https://news.ycombinator.com/item?id=39678532) |
-| 1334 | [Boeing whistleblower found dead in US](https://www.bbc.com/news/business-68534703) | [11-03-2024](https://news.ycombinator.com/item?id=39673589) |
+| 781 | [Apple announces ability to download apps directly from websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/) | [12-03-2024](https://news.ycombinator.com/item?id=39678532) |
+| 1335 | [Boeing whistleblower found dead in US](https://www.bbc.com/news/business-68534703) | [11-03-2024](https://news.ycombinator.com/item?id=39673589) |
 | 639 | [U.S. is said to open criminal inquiry into Boeing](https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html) | [10-03-2024](https://news.ycombinator.com/item?id=39656455) |
 | 1534 | [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/) | [09-03-2024](https://news.ycombinator.com/item?id=39653718) |
 | 1065 | [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/) | [08-03-2024](https://news.ycombinator.com/item?id=39637471) |
@@ -383,7 +384,6 @@
 | 710 | [Jacob Ziv has died](https://twitter.com/erlichya/status/1639973591214182400) | [26-03-2023](https://news.ycombinator.com/item?id=35316836) |
 | 2594 | [Gordon Moore has died](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023) | [25-03-2023](https://news.ycombinator.com/item?id=35297420) |
 | 1265 | [We updated our RSA SSH host key](https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/) | [24-03-2023](https://news.ycombinator.com/item?id=35285390) |
-| 1875 | [ChatGPT Plugins](https://openai.com/blog/chatgpt-plugins) | [23-03-2023](https://news.ycombinator.com/item?id=35277677) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**
