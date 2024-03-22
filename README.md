@@ -19,18 +19,19 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 798 | [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/) | [20-03-2024](https://news.ycombinator.com/item?id=39768434) |
-| 687 | [How to Start Google](https://paulgraham.com/google.html) | [19-03-2024](https://news.ycombinator.com/item?id=39756865) |
-| 858 | [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/) | [18-03-2024](https://news.ycombinator.com/item?id=39746468) |
-| 1159 | [Grok](https://github.com/xai-org/grok) | [17-03-2024](https://news.ycombinator.com/item?id=39737281) |
-| 921 | [How web bloat impacts users with slow devices](https://danluu.com/slow-device/) | [16-03-2024](https://news.ycombinator.com/item?id=39729057) |
-| 867 | [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/) | [15-03-2024](https://news.ycombinator.com/item?id=39711725) |
+| 2190 | [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html) | [21-03-2024](https://news.ycombinator.com/item?id=39778999) |
+| 920 | [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/) | [20-03-2024](https://news.ycombinator.com/item?id=39768434) |
+| 704 | [How to Start Google](https://paulgraham.com/google.html) | [19-03-2024](https://news.ycombinator.com/item?id=39756865) |
+| 870 | [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/) | [18-03-2024](https://news.ycombinator.com/item?id=39746468) |
+| 1164 | [Grok](https://github.com/xai-org/grok) | [17-03-2024](https://news.ycombinator.com/item?id=39737281) |
+| 923 | [How web bloat impacts users with slow devices](https://danluu.com/slow-device/) | [16-03-2024](https://news.ycombinator.com/item?id=39729057) |
+| 868 | [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/) | [15-03-2024](https://news.ycombinator.com/item?id=39711725) |
 | 1489 | [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) | [14-03-2024](https://news.ycombinator.com/item?id=39700256) |
 | 559 | [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) | [13-03-2024](https://news.ycombinator.com/item?id=39692387) |
 | 781 | [Apple announces ability to download apps directly from websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/) | [12-03-2024](https://news.ycombinator.com/item?id=39678532) |
 | 1335 | [Boeing whistleblower found dead in US](https://www.bbc.com/news/business-68534703) | [11-03-2024](https://news.ycombinator.com/item?id=39673589) |
 | 639 | [U.S. is said to open criminal inquiry into Boeing](https://www.nytimes.com/2024/03/09/business/boeing-criminal-inquiry-alaska-airlines-flight.html) | [10-03-2024](https://news.ycombinator.com/item?id=39656455) |
-| 1537 | [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/) | [09-03-2024](https://news.ycombinator.com/item?id=39653718) |
+| 1538 | [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/) | [09-03-2024](https://news.ycombinator.com/item?id=39653718) |
 | 1065 | [Akira Toriyama has died](https://noisypixel.net/dragon-ball-creator-akira-toriyama-has-passed-away/) | [08-03-2024](https://news.ycombinator.com/item?id=39637471) |
 | 1274 | [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/) | [07-03-2024](https://news.ycombinator.com/item?id=39629044) |
 | 1037 | [OpenAI and Elon Musk](https://openai.com/blog/openai-elon-musk) | [06-03-2024](https://news.ycombinator.com/item?id=39611484) |
@@ -383,7 +384,6 @@
 | 3014 | [Bicycle](https://ciechanow.ski/bicycle/) | [28-03-2023](https://news.ycombinator.com/item?id=35343495) |
 | 1725 | [Windows needs to stop showing tabloid news](https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news) | [27-03-2023](https://news.ycombinator.com/item?id=35323121) |
 | 710 | [Jacob Ziv has died](https://twitter.com/erlichya/status/1639973591214182400) | [26-03-2023](https://news.ycombinator.com/item?id=35316836) |
-| 2594 | [Gordon Moore has died](https://www.moore.org/article-detail?newsUrlName=in-memoriam-gordon-moore-1929-2023) | [25-03-2023](https://news.ycombinator.com/item?id=35297420) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**
