@@ -19,17 +19,18 @@
 <!-- NEWS PREVIEW BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 528 | [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html) | [24-03-2024](https://news.ycombinator.com/item?id=39804214) |
-| 1438 | [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/) | [23-03-2024](https://news.ycombinator.com/item?id=39799755) |
-| 663 | [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php) | [22-03-2024](https://news.ycombinator.com/item?id=39786984) |
-| 2540 | [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html) | [21-03-2024](https://news.ycombinator.com/item?id=39778999) |
+| 540 | [Commission opens non-compliance investigations against Alphabet, Apple and Meta](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_1689) | [25-03-2024](https://news.ycombinator.com/item?id=39814558) |
+| 727 | [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith) | [24-03-2024](https://news.ycombinator.com/item?id=39810378) |
+| 1491 | [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/) | [23-03-2024](https://news.ycombinator.com/item?id=39799755) |
+| 668 | [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php) | [22-03-2024](https://news.ycombinator.com/item?id=39786984) |
+| 2542 | [U.S. sues Apple, accusing it of maintaining an iPhone monopoly](https://www.nytimes.com/2024/03/21/technology/apple-doj-lawsuit-antitrust.html) | [21-03-2024](https://news.ycombinator.com/item?id=39778999) |
 | 996 | [Flightradar24's new GPS jamming map](https://www.flightradar24.com/blog/gps-jamming-map/) | [20-03-2024](https://news.ycombinator.com/item?id=39768434) |
-| 729 | [How to Start Google](https://paulgraham.com/google.html) | [19-03-2024](https://news.ycombinator.com/item?id=39756865) |
-| 881 | [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/) | [18-03-2024](https://news.ycombinator.com/item?id=39746468) |
+| 730 | [How to Start Google](https://paulgraham.com/google.html) | [19-03-2024](https://news.ycombinator.com/item?id=39756865) |
+| 882 | [YouTube now requires to label their realistic-looking videos made using AI](https://blog.google/intl/en-in/products/platforms/how-were-helping-creators-disclose-altered-or-synthetic-content/) | [18-03-2024](https://news.ycombinator.com/item?id=39746468) |
 | 1170 | [Grok](https://github.com/xai-org/grok) | [17-03-2024](https://news.ycombinator.com/item?id=39737281) |
 | 929 | [How web bloat impacts users with slow devices](https://danluu.com/slow-device/) | [16-03-2024](https://news.ycombinator.com/item?id=39729057) |
 | 871 | [Vision Pro: What we got wrong at Oculus that Apple got right](https://hugo.blog/2024/03/11/vision-pro/) | [15-03-2024](https://news.ycombinator.com/item?id=39711725) |
-| 1491 | [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) | [14-03-2024](https://news.ycombinator.com/item?id=39700256) |
+| 1492 | [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) | [14-03-2024](https://news.ycombinator.com/item?id=39700256) |
 | 559 | [A generalist AI agent for 3D virtual environments](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) | [13-03-2024](https://news.ycombinator.com/item?id=39692387) |
 | 781 | [Apple announces ability to download apps directly from websites in EU](https://www.macrumors.com/2024/03/12/apple-announces-app-downloads-from-websites/) | [12-03-2024](https://news.ycombinator.com/item?id=39678532) |
 | 1335 | [Boeing whistleblower found dead in US](https://www.bbc.com/news/business-68534703) | [11-03-2024](https://news.ycombinator.com/item?id=39673589) |
@@ -383,7 +384,6 @@
 | 440 | [His software sang the words of God, then it went silent](https://www.inverse.com/input/features/tropetrainer-thomas-buchler-torah-software) | [01-04-2023](https://news.ycombinator.com/item?id=35401895) |
 | 1700 | [Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) | [31-03-2023](https://news.ycombinator.com/item?id=35391433) |
 | 956 | [Scratch is the world’s largest coding community for children](https://scratch.mit.edu/about) | [30-03-2023](https://news.ycombinator.com/item?id=35373052) |
-| 992 | [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average) | [29-03-2023](https://news.ycombinator.com/item?id=35355703) |
 <!-- NEWS PREVIEW END -->
 
 **To see the full list, visit >>> [hnhd.io](https://hnhd.io/) <<<**
